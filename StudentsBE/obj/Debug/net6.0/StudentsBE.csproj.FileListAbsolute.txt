@@ -264,3 +264,10 @@ C:\Users\danie\OneDrive\Escritorio\Student2\Backend\StudentsBE\obj\Debug\net6.0\
 C:\Users\danie\OneDrive\Escritorio\Student2\Backend\StudentsBE\obj\Debug\net6.0\StudentsBE.pdb
 C:\Users\danie\OneDrive\Escritorio\Student2\Backend\StudentsBE\obj\Debug\net6.0\StudentsBE.genruntimeconfig.cache
 C:\Users\danie\OneDrive\Escritorio\Student2\Backend\StudentsBE\obj\Debug\net6.0\ref\StudentsBE.dll
+C:\Users\danie\OneDrive\Escritorio\Student2\StudentsBackEnd\Backend\StudentsBE\obj\Debug\net6.0\StudentsBE.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Escritorio\Student2\StudentsBackEnd\Backend\StudentsBE\obj\Debug\net6.0\StudentsBE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Escritorio\Student2\StudentsBackEnd\Backend\StudentsBE\obj\Debug\net6.0\StudentsBE.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Escritorio\Student2\StudentsBackEnd\Backend\StudentsBE\obj\Debug\net6.0\StudentsBE.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\Student2\StudentsBackEnd\Backend\StudentsBE\obj\Debug\net6.0\StudentsBE.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\Student2\StudentsBackEnd\Backend\StudentsBE\obj\Debug\net6.0\StudentsBE.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\danie\OneDrive\Escritorio\Student2\StudentsBackEnd\Backend\StudentsBE\obj\Debug\net6.0\StudentsBE.MvcApplicationPartsAssemblyInfo.cache
